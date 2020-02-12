@@ -2,20 +2,22 @@
 ![react-heroku](https://user-images.githubusercontent.com/56132780/74364981-f3029300-4dab-11ea-84e9-a4aadc597782.png)
 
 **Iniciando uma aplicação React Js no Heroku usando o CLI do Heroku**
-#
 
+*******
 Tabelas de conteúdo 
- 1. [Requisitos](#requisitos)
- 2. [Porque usar Markdown?](#why)
- 3. [Ferramentas para Markdown](#tools)
+ 1. [Requisitos](#requirements)
+ 2. [Passos](#steps)
+ 3. [Ações adicionais](#actions)
  4. [Sintaxe de Markdown](#syntax)
 
-#
-<div id='requisitos' />
+*******
+<div id='requirements' />
 ##### Requisitos:
 - Heroku
 - Git
 #
+<div id='steps' />
+#### Passos:
 
 ### Crie sua nova aplicação
 `create-react-app new-app`
@@ -62,7 +64,7 @@ Tabelas de conteúdo
 
 ###### Execute `git add .` novamente, dê um `git commit -m "remove"` e rode `git push heroku master` de novo. O push deve funcionar agora.
 #
-
+<div id='actions' />
 # Ações adicionais
 
 ### Atualizando modificações no projeto

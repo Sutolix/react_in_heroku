@@ -40,6 +40,7 @@
 #
 
 **Caso o push seja feito com sucesso, rode o seguinte comando que será aberto uma página em seu navegador com seu novo app**
+
 `heroku open`
 
 

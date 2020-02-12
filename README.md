@@ -4,20 +4,20 @@
 **Iniciando uma aplicação React Js no Heroku usando o CLI do Heroku**
 
 *******
-Tabelas de conteúdo 
+ *Sumário* 
  1. [Requisitos](#requirements)
  2. [Passos](#steps)
  3. [Ações adicionais](#actions)
- 4. [Sintaxe de Markdown](#syntax)
-
 *******
-<div id='requirements' />
-##### Requisitos:
+
+### Requisitos:
 - Heroku
 - Git
 #
+
 <div id='steps' />
-#### Passos:
+
+# Passos:
 
 ### Crie sua nova aplicação
 `create-react-app new-app`
@@ -64,7 +64,9 @@ Tabelas de conteúdo
 
 ###### Execute `git add .` novamente, dê um `git commit -m "remove"` e rode `git push heroku master` de novo. O push deve funcionar agora.
 #
+
 <div id='actions' />
+
 # Ações adicionais
 
 ### Atualizando modificações no projeto

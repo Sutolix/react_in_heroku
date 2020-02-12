@@ -42,6 +42,8 @@
 **Caso o push seja feito com sucesso, rode o seguinte comando que será aberto uma página em seu navegador com seu novo app**
 >heroku open
 
+
+###### Alguns erros de push podem ocorrer se estiver fazendo o upload de uma aplicação que já possuí modificações. Se usou yarn e npm em uma mesma aplicação, terá que apagar o package.json de um dos dois pois o Heroku só permite usar um.
 #
 
 # Ações adicionais
@@ -53,4 +55,3 @@
 
 *Onde "newname" é o novo nome.*
 
-###### Alguns erros de push podem ocorrer se estiver fazendo o upload de uma aplicação que já possuí modificações. Se usou yarn e npm em uma mesma aplicação, terá que apagar o package.json de um dos dois pois o Heroku só permite usar um.

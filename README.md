@@ -4,7 +4,7 @@
 **Iniciando uma aplicação React Js no Heroku usando o CLI do Heroku**
 
 *******
- *Sumário* 
+ ***Sumário*** 
  1. [Requisitos](#requirements)
  2. [Passos](#steps)
  3. [Ações adicionais](#actions)

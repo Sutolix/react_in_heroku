@@ -58,20 +58,20 @@
 
 ### Atualizando modificações no projeto
 
-`git add .`
+- `git add .`
 
-`git status` *Serve apenas para ver quais os arquivos foram modificados*
+- `git status` *Serve apenas para ver quais os arquivos foram modificados*
 
-`git commit -m "seu-commit"`
+- `git commit -m "seu-commit"`
 
-`git push heroku master`
+- `git push heroku master`
 ###### Lembre-se de executar os comandos dentro da pasta do projeto.
 #
 
 ### Renomeando uma aplicação do Heroku
-`git remote rm heroku`
+- ` git remote rm heroku`
 
-`heroku git:remote -a newname`
+- `heroku git:remote -a newname`
 
 *Onde "newname" é o novo nome.*
 

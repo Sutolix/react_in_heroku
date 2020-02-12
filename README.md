@@ -7,6 +7,8 @@
  ***Sumário*** 
  1. [Requisitos](#requirements)
  2. [Passos](#steps)
+
+   * * Inicie o Git dentro da pasta da aplicação
  3. [Ações adicionais](#actions)
 *******
 <div id='requirements' />

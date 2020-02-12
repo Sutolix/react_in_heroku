@@ -11,14 +11,14 @@
 *******
 <div id='requirements' />
 
-# Requisitos:
+## Requisitos:
 - Heroku
 - Git
 #
 
 <div id='steps' />
 
-# Passos:
+## Passos:
 
 ### Crie sua nova aplicação
 `create-react-app new-app`
@@ -68,7 +68,7 @@
 
 <div id='actions' />
 
-# Ações adicionais
+## Ações adicionais
 
 ### Atualizando modificações no projeto
 

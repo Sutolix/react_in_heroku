@@ -48,6 +48,7 @@
 
 ### Renomeando uma aplicação do Heroku
 > git remote rm heroku
+
 > heroku git:remote -a newname
 
 *Onde "newname" é o novo nome.*

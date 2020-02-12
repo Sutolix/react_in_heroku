@@ -44,7 +44,13 @@
 `heroku open`
 
 
-###### Alguns erros de push podem ocorrer se estiver fazendo o upload de uma aplicação que já possuí modificações. Se usou yarn e npm em uma mesma aplicação terá que apagar o package.json de um dos dois pois o Heroku só permite usar um.
+###### Alguns erros de push podem ocorrer se estiver fazendo o upload de uma aplicação que já possuí modificações. Se usou yarn e npm em uma mesma aplicação terá que apagar o arquivo de um dos dois pois o Heroku só permite usar um.
+
+###### *Digite* `git rm yarn.lock` *para remover o yarn e usar o npm.*
+
+###### *Digite* `git rm package-lock.json` *para remover o npm e usar o yarn.*
+
+###### Execute `git add .` novamente, dê um `git commit -m "remove"` e rode `git push heroku master` de novo. O push deve funcionar agora.
 #
 
 # Ações adicionais

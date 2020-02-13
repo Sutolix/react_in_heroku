@@ -82,6 +82,9 @@
 #
 
 ### Renomeando uma aplicação do Heroku
+
+##### Renomeie a aplicação para o nome que deseja no painel do Heroku e rode o seguinte na pasta do seu projeto:
+
 - ` git remote rm heroku`
 
 - `heroku git:remote -a newname`

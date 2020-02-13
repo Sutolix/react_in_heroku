@@ -73,7 +73,7 @@
 
 - `git add .`
 
-- `git status` *Serve apenas para ver quais os arquivos foram modificados*
+- `git status` *Serve apenas para ver quais arquivos foram modificados*
 
 - `git commit -m "seu-commit"`
 

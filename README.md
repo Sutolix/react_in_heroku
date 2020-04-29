@@ -67,6 +67,12 @@
 ###### *Digite* `git rm package-lock.json` *para remover o npm e usar o yarn.*
 
 ###### Execute `git add .` novamente, dê um `git commit -m "remove"` e rode `git push heroku master` de novo. O push deve funcionar agora.
+
+<h4 align="center">All right? Espero que sim ;)</h4>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/56132780/80615599-42a14400-8a16-11ea-9fa0-9ecfe6ca33e2.gif">
+</p>
+
 #
 
 <div id='actions' />

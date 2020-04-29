@@ -15,9 +15,9 @@
 <div id='requirements' />
 
 ## Requisitos:
-- Uma conta no [Heroku.](https://www.heroku.com/)
-- [Git.](https://git-scm.com/)
-- [NodeJs.](https://nodejs.org/en)
+- Uma conta no [Heroku](https://www.heroku.com/)
+- [Git](https://git-scm.com/)
+- [NodeJs](https://nodejs.org/en)
 #
 
 <div id='steps' />

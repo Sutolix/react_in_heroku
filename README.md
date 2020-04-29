@@ -17,6 +17,7 @@
 ## Requisitos:
 - Heroku
 - Git
+- Node
 #
 
 <div id='steps' />
@@ -24,7 +25,7 @@
 ## Passos:
 
 ### Crie sua nova aplicação
-`create-react-app new-app`
+`npx create-react-app new-app`
 
 *Onde "new-app" é o nome de sua aplicação.*
 #
